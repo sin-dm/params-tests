@@ -13,6 +13,7 @@ public class Junit4ParametrizedTest {
 
     int expected;
 
+    // Review comment
     public Junit4ParametrizedTest(int firstNumber, int secondNumber, int expected) {
         this.firstNumber = firstNumber;
         this.secondNumber = secondNumber;
